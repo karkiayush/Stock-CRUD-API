@@ -1,0 +1,12 @@
+-> We can use either GORM or .... for setting db connectivity with GO.
+-> Here we're using: db/sql package & library/pq package to work with postgres
+-> Gorilla Mux for routing purpose
+-> godotenv package is used to load environment variables from .env files to GO application's environment.
+->
+->
+->
+->
+->
+->
+->
+->
